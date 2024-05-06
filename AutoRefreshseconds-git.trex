@@ -4,7 +4,7 @@
     <default-locale>en_US</default-locale>
     <name resource-id="name"/>
     <description>UI Namespace Sample</description>
-    <author name="Ce Ke" email="contact@meltone.com" organization="CK" website="http://www.meltone.com/">
+    <author name="Ce Ke" email="contact@meltone.com" organization="CK" website="https://www.meltone.com/">
     <min-api-version>0.9</min-api-version>
     <source-location>
       <url>https://melt1fr.github.io/Extension/AutoRefresh.html</url>
